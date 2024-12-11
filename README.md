@@ -30,7 +30,7 @@ To cite, kindly use:
 The dataset is publicly available and can be accessed through the following link. Please note that you may need to create a Globus account to access the dataset.
 
 #### !!! Important Note
-- The dataset size is approximately 112GB in its uncompressed format.
+- The dataset size is approximately 61.18 GB in its uncompressed format.
 - A compressed version is also available as a zip file, reducing the size to 58.78GB.
   
 Make sure to verify that you have sufficient storage and bandwidth before downloading.
