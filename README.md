@@ -25,9 +25,9 @@ To cite, kindly use:
 }
 ```
 
-### 2. Download the Dataset
+### 2. Download the [Dataset](https://app.globus.org/file-manager?origin_id=20d443fd-a8c6-40e0-a6cb-562e1feb644d&origin_path=%2F)
 
-The dataset is publicly available and can be accessed through the following link. Please note that you may need to create a Globus account to access the dataset.
+The dataset is publicly available and can be accessed through this [link](https://app.globus.org/file-manager?origin_id=20d443fd-a8c6-40e0-a6cb-562e1feb644d&origin_path=%2F). Please note that you may need to create a Globus account to access the dataset.
 
 #### !!! Important Note
 - The dataset size is approximately 61.18 GB in its uncompressed format.
