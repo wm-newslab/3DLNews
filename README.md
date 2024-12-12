@@ -113,7 +113,7 @@ We enhanced the usefulness of the news article URLs in 3DLNews by adding attribu
 | Property          | Description | Example   |
 |-------------------|------------------------|-------------------------|
 | link              | The URL of the local news article.| `https://www.adn.com/alaska-news/article/womans-death-montana-has-eerie-echoes-yakutat-killing/2009/01/23/`                  |
-| html_filename     | Filename with HTML content of the article.    | `556a766d0ee6d588632f30b662ada710.html`                                     |
+| html_filename     | Filename with HTML content of the article.    | `HTML/AK/2009/3e21b4e350560f922993604b9a037793.html.gz`                                     |
 | publication_date  | Article publication date.   | `01/23/2009`                                          |
 | title             | Title of the article. | `Woman's death in Montana has eerie echoes of Yakutat killing - Anchorage Daily News`  |
 | media_name        | Name of local media organization.    | `Alaska Dispatch News`                                       |
