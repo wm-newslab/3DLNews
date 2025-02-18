@@ -1,9 +1,22 @@
 # 3DLNews: A Three-decade Dataset of US Local News Articles
 
 ---
-### 🚀 Stay Tuned!
+## Update: **Introducing 3DLNews2** 🚀  
 
-**Stay tuned for information about a larger version of 3DLNews!**
+We are excited to announce **[3DLNews2](https://github.com/wm-newslab/3DLNews2)**, an expanded and improved version of the **3DLNews** dataset!  
+
+#### What's New in 3DLNews2?  
+✅ **Significantly larger dataset** – Now featuring over **8 million URLs**, with a **refined subset of nearly 4 million filtered news articles**.  
+✅ **Extended coverage** – Spanning nearly **three decades (1995–2024)** of US local news.  
+✅ **Comprehensive local news representation** – Articles from **14,000+ newspapers, TV, and radio broadcasters** across **all 50 states**.  
+✅ **Improved data collection** – A **three-month-long** scraping effort using an **enhanced version** of the original methodology.  
+✅ **Refined filtering pipeline** – **Multi-step filtering** to remove non-news links and **enrich metadata**.  
+
+🔗 **Check out 3DLNews2:** [https://github.com/wm-newslab/3DLNews2](https://github.com/wm-newslab/3DLNews2)  
+
+3DLNews2 builds upon the foundation of 3DLNews, further strengthening its value for research on local news in the United States. We encourage you to explore the new dataset and leverage it for your projects! 🚀  
+
+---
 
 ## 1. About 
 We present [3DLNews](https://arxiv.org/pdf/2408.04716), a novel dataset with local news articles from the United States spanning the period from 1996 to 2024. It contains almost 1 million URLs (and HTML text) from over 14,000 local newspapers, TV, and radio stations across all 50 states, and provides a broad snapshot of the US local news landscape. The dataset was collected by scraping Google and Twitter search results. We employed a multi-step filtering process to remove non-news article links and enriched the dataset with metadata such as the names and geo-coordinates of the source news media organizations, article publication dates, etc. Furthermore, we demonstrated the utility of 3DLNews by outlining four applications.
